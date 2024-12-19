@@ -5,6 +5,20 @@
 [![Discord](https://img.shields.io/badge/Discord-4950AF)](https://discord.gg/vuBUfB7w)
 [![Twitter](https://img.shields.io/twitter/follow/rairprotocol)](https://twitter.com/rairprotocol)
 
+# Points Campaign Details
+
+When: Campaign starts 3/1/2024 @ ETHDenver with points bonus incentives for IRL signups.
+
+How Much: 5% of the total RAIR token supply. (50m RAIR) + Partner tokens
+
+Campaign period: 60 Days
+
+Distribution: 50% rewards to the top 1% of developers. 50% distributed to the bottom 99%. Everyone who participates will earn RAIR!
+
+Follow on X: https://x.com/rairprotocol
+
+to learn when you can connect your GitHub to enter!
+
 # Getting Started
 _Building RAIR is a snap! Follow these simple steps and you'll be up and running in no time._
 
